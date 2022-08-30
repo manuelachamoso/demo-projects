@@ -106,6 +106,7 @@
 
 ### Main Curriculum
 * Stock Price Checker Proxy
+
   - [Project description](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
   - [Landing page](https://stock-price-checker-proxy.freecodecamp.rocks/)
 
